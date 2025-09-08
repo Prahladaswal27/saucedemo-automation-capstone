@@ -1,4 +1,3 @@
-# Optimizers
 
 # 🚀 Selenium Capstone Project  
 
